@@ -24,6 +24,7 @@ const App = () => {
     setWord("");
   }
 
+  
   return (
     <div>
       <Header title="Images Gallery" />
